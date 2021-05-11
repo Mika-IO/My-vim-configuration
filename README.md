@@ -1,2 +1,5 @@
-# My-vim-configuration
-My customizations of vim editor
+# My vim configuration
+
+To edit vimrc
+  :edit $MYVIMRC
+  
